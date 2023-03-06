@@ -9,4 +9,9 @@ NOTICIA (25/01/2023) Modpack actualizadooo. Preparado para estar listo para usar
 
 Changelogs (05/02/2023) haals enhanced biomes actualizado. Wyml removido. README actualizado.
 
-Changelogs (11/02/2033) rubidium sustituirá magnesium, reparando el crasheo de bloques de quark. Performant añadido~
+Changelogs (11/02/2033) rubidium sustituirá magnesium, reparando el crasheo de bloques de quark. Performant añadido
+
+Changelogs (16/02/2023) ichunutil y hats mod actualizado 
+
+Changelogs (17/02/2023) mapa dinámico implementado! La dirección del mapa está únicamente en el servidor de discord
+ 
