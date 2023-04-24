@@ -1,4 +1,7 @@
 # exdeadration2devlog
+
+este servidor está obsoleto. gracias por su participación 
+
 En issues puedes ver todas las notas y problemas a tener en cuenta. Los changelogs están en un archivo de texto llamado changelogs
 
 Fase de desarrollo del servidor: RELASE, todo lo esencial listo
