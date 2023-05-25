@@ -1,6 +1,6 @@
 # exdeadration2devlog
 
-este servidor está obsoleto. gracias por su participación 
+este servidor está obsoleto. gracias por su participación <3
 
 En issues puedes ver todas las notas y problemas a tener en cuenta. Los changelogs están en un archivo de texto llamado changelogs
 
